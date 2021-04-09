@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 16px;
+}
+p{
+    color:aliceblue
+}
+h1{
+    color: red;
+}
+th{
+    width: 50px;
+}
